@@ -1,0 +1,9 @@
+# Private Node Modules
+/modules/scraper/node_modules/
+  
+# Mac/OSX
+.DS_Store 
+ 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.ipynb_checkpoints
